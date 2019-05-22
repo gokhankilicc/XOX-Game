@@ -1,0 +1,40 @@
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\XOX\XOX\bin\Debug\XOX.exe.config
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\XOX\XOX\bin\Debug\XOX.exe
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\XOX\XOX\bin\Debug\XOX.pdb
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\XOX\XOX\obj\Debug\XOX.csprojResolveAssemblyReference.cache
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\XOX\XOX\obj\Debug\XOX.Form1.resources
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\XOX\XOX\obj\Debug\XOX.Properties.Resources.resources
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\XOX\XOX\obj\Debug\XOX.csproj.GenerateResource.cache
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\XOX\XOX\obj\Debug\XOX.csproj.CoreCompileInputs.cache
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\XOX\XOX\obj\Debug\XOX.exe
+C:\Users\EFE\Documents\Visual Studio 2017\Projects\XOX\XOX\obj\Debug\XOX.pdb
+E:\XOX\XOX\bin\Debug\XOX.exe.config
+E:\XOX\XOX\bin\Debug\XOX.exe
+E:\XOX\XOX\bin\Debug\XOX.pdb
+E:\XOX\XOX\obj\Debug\XOX.csprojResolveAssemblyReference.cache
+E:\XOX\XOX\obj\Debug\XOX.Form1.resources
+E:\XOX\XOX\obj\Debug\XOX.Properties.Resources.resources
+E:\XOX\XOX\obj\Debug\XOX.csproj.GenerateResource.cache
+E:\XOX\XOX\obj\Debug\XOX.csproj.CoreCompileInputs.cache
+E:\XOX\XOX\obj\Debug\XOX.exe
+E:\XOX\XOX\obj\Debug\XOX.pdb
+F:\XOX\XOX\bin\Debug\XOX.exe.config
+F:\XOX\XOX\bin\Debug\XOX.exe
+F:\XOX\XOX\bin\Debug\XOX.pdb
+F:\XOX\XOX\obj\Debug\XOX.csprojAssemblyReference.cache
+F:\XOX\XOX\obj\Debug\XOX.Form1.resources
+F:\XOX\XOX\obj\Debug\XOX.Properties.Resources.resources
+F:\XOX\XOX\obj\Debug\XOX.csproj.GenerateResource.cache
+F:\XOX\XOX\obj\Debug\XOX.csproj.CoreCompileInputs.cache
+F:\XOX\XOX\obj\Debug\XOX.exe
+F:\XOX\XOX\obj\Debug\XOX.pdb
+D:\Yazılım\XOXHOCA\XOXEfe\XOX\bin\Debug\XOX.exe.config
+D:\Yazılım\XOXHOCA\XOXEfe\XOX\bin\Debug\XOX.exe
+D:\Yazılım\XOXHOCA\XOXEfe\XOX\bin\Debug\XOX.pdb
+D:\Yazılım\XOXHOCA\XOXEfe\XOX\obj\Debug\XOX.csprojAssemblyReference.cache
+D:\Yazılım\XOXHOCA\XOXEfe\XOX\obj\Debug\XOX.Form1.resources
+D:\Yazılım\XOXHOCA\XOXEfe\XOX\obj\Debug\XOX.Properties.Resources.resources
+D:\Yazılım\XOXHOCA\XOXEfe\XOX\obj\Debug\XOX.csproj.GenerateResource.cache
+D:\Yazılım\XOXHOCA\XOXEfe\XOX\obj\Debug\XOX.csproj.CoreCompileInputs.cache
+D:\Yazılım\XOXHOCA\XOXEfe\XOX\obj\Debug\XOX.exe
+D:\Yazılım\XOXHOCA\XOXEfe\XOX\obj\Debug\XOX.pdb
